@@ -1,5 +1,3 @@
-# Fintech-performance-analytics
-Análisis de performance comercial y riesgo en Fintech (Data Analytics &amp; BI Demo)
 # Fintech Performance Analytics
 
 **Demo**: análisis de cartera de préstamos con base simulada de 50.000 clientes, ETL en Python y artefactos para BI.
